@@ -6,6 +6,8 @@ import android.view.View
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.google.firebase.auth.FirebaseAuth
+import com.example.loginregisterfirebase.home.HomeActivity
+
 
 class RegisterActivity : AppCompatActivity() {
     private lateinit var mAuth: FirebaseAuth
